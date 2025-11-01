@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Interface-Casting-Operator-Overloading-Static-Extension\StudentClass\bin\Debug\net8.0\StudentClass.exe
+C:\Users\User\Desktop\Interface-Casting-Operator-Overloading-Static-Extension\StudentClass\bin\Debug\net8.0\StudentClass.deps.json
+C:\Users\User\Desktop\Interface-Casting-Operator-Overloading-Static-Extension\StudentClass\bin\Debug\net8.0\StudentClass.runtimeconfig.json
+C:\Users\User\Desktop\Interface-Casting-Operator-Overloading-Static-Extension\StudentClass\bin\Debug\net8.0\StudentClass.dll
+C:\Users\User\Desktop\Interface-Casting-Operator-Overloading-Static-Extension\StudentClass\bin\Debug\net8.0\StudentClass.pdb
+C:\Users\User\Desktop\Interface-Casting-Operator-Overloading-Static-Extension\StudentClass\obj\Debug\net8.0\StudentClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Interface-Casting-Operator-Overloading-Static-Extension\StudentClass\obj\Debug\net8.0\StudentClass.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Interface-Casting-Operator-Overloading-Static-Extension\StudentClass\obj\Debug\net8.0\StudentClass.AssemblyInfo.cs
+C:\Users\User\Desktop\Interface-Casting-Operator-Overloading-Static-Extension\StudentClass\obj\Debug\net8.0\StudentClass.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Interface-Casting-Operator-Overloading-Static-Extension\StudentClass\obj\Debug\net8.0\StudentClass.sourcelink.json
+C:\Users\User\Desktop\Interface-Casting-Operator-Overloading-Static-Extension\StudentClass\obj\Debug\net8.0\StudentClass.dll
+C:\Users\User\Desktop\Interface-Casting-Operator-Overloading-Static-Extension\StudentClass\obj\Debug\net8.0\refint\StudentClass.dll
+C:\Users\User\Desktop\Interface-Casting-Operator-Overloading-Static-Extension\StudentClass\obj\Debug\net8.0\StudentClass.pdb
+C:\Users\User\Desktop\Interface-Casting-Operator-Overloading-Static-Extension\StudentClass\obj\Debug\net8.0\StudentClass.genruntimeconfig.cache
+C:\Users\User\Desktop\Interface-Casting-Operator-Overloading-Static-Extension\StudentClass\obj\Debug\net8.0\ref\StudentClass.dll

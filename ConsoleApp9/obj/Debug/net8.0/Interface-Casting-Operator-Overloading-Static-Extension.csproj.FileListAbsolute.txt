@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Interface-Casting-Operator-Overloading-Static-Extension\ConsoleApp9\obj\Debug\net8.0\Interface-Casting-Operator-Overloading-Static-Extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Interface-Casting-Operator-Overloading-Static-Extension\ConsoleApp9\obj\Debug\net8.0\Interface-Casting-Operator-Overloading-Static-Extension.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Interface-Casting-Operator-Overloading-Static-Extension\ConsoleApp9\obj\Debug\net8.0\Interface-Casting-Operator-Overloading-Static-Extension.AssemblyInfo.cs
+C:\Users\User\Desktop\Interface-Casting-Operator-Overloading-Static-Extension\ConsoleApp9\obj\Debug\net8.0\Interface-Casting-Operator-Overloading-Static-Extension.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Interface-Casting-Operator-Overloading-Static-Extension\ConsoleApp9\obj\Debug\net8.0\Interface-Casting-Operator-Overloading-Static-Extension.sourcelink.json

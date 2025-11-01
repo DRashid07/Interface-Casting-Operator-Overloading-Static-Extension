@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Interface-Casting-Operator-Overloading-Static-Extension\String Type\bin\Debug\net8.0\String Type.exe
+C:\Users\User\Desktop\Interface-Casting-Operator-Overloading-Static-Extension\String Type\bin\Debug\net8.0\String Type.deps.json
+C:\Users\User\Desktop\Interface-Casting-Operator-Overloading-Static-Extension\String Type\bin\Debug\net8.0\String Type.runtimeconfig.json
+C:\Users\User\Desktop\Interface-Casting-Operator-Overloading-Static-Extension\String Type\bin\Debug\net8.0\String Type.dll
+C:\Users\User\Desktop\Interface-Casting-Operator-Overloading-Static-Extension\String Type\bin\Debug\net8.0\String Type.pdb
+C:\Users\User\Desktop\Interface-Casting-Operator-Overloading-Static-Extension\String Type\obj\Debug\net8.0\String Type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Interface-Casting-Operator-Overloading-Static-Extension\String Type\obj\Debug\net8.0\String Type.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Interface-Casting-Operator-Overloading-Static-Extension\String Type\obj\Debug\net8.0\String Type.AssemblyInfo.cs
+C:\Users\User\Desktop\Interface-Casting-Operator-Overloading-Static-Extension\String Type\obj\Debug\net8.0\String Type.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Interface-Casting-Operator-Overloading-Static-Extension\String Type\obj\Debug\net8.0\String Type.sourcelink.json
+C:\Users\User\Desktop\Interface-Casting-Operator-Overloading-Static-Extension\String Type\obj\Debug\net8.0\String Type.dll
+C:\Users\User\Desktop\Interface-Casting-Operator-Overloading-Static-Extension\String Type\obj\Debug\net8.0\refint\String Type.dll
+C:\Users\User\Desktop\Interface-Casting-Operator-Overloading-Static-Extension\String Type\obj\Debug\net8.0\String Type.pdb
+C:\Users\User\Desktop\Interface-Casting-Operator-Overloading-Static-Extension\String Type\obj\Debug\net8.0\String Type.genruntimeconfig.cache
+C:\Users\User\Desktop\Interface-Casting-Operator-Overloading-Static-Extension\String Type\obj\Debug\net8.0\ref\String Type.dll

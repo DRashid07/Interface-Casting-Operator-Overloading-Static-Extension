@@ -7,8 +7,7 @@ namespace ConsoleApp9
     {
         static void Main(string[] args)
         {
-            IntMethods methods=new IntMethods();
-            
+            Console.WriteLine();
         }
     }
 }
